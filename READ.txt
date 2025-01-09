@@ -1,0 +1,3 @@
+Make sure to first create a seperate folder for css and images files. 
+Css folder name should be : css
+Images/gif folder name should be: images
